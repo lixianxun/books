@@ -10,3 +10,6 @@
 
 - [《动手学深度学习》_中文版_李沐.pdf](http://zh.gluon.ai/)
 
+
+source code:
+https://github.com/oreilly-japan/deep-learning-from-scratch
